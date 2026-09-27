@@ -1,0 +1,1 @@
+Run fetch_yfinance.py with a session date and output path using requirements.txt. It saves observations separately; it does not overwrite dated quotes, movements or news. Review provider discrepancies before incorporating a new edition. yfinance is independent of Yahoo and intended for research/personal use. See https://ranaroussi.github.io/yfinance/.
