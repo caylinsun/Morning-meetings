@@ -1,0 +1,457 @@
+{
+  "membershipSource": "https://en.wikipedia.org/wiki/List_of_Dow_Jones_Industrial_Average_companies",
+  "session": "2026-09-18",
+  "provider": "Yahoo Finance via yfinance",
+  "rows": [
+    {
+      "name": "AMGN",
+      "pct": 1.5456304007728239,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 379.7799987792969
+        },
+        {
+          "date": "2026-09-18",
+          "close": 385.6499938964844
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/AMGN/history/"
+    },
+    {
+      "name": "NVDA",
+      "pct": 1.3358292985729214,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 219.33999633789062
+        },
+        {
+          "date": "2026-09-18",
+          "close": 222.27000427246094
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/NVDA/history/"
+    },
+    {
+      "name": "CAT",
+      "pct": 1.3048302358700692,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 798.5700073242188
+        },
+        {
+          "date": "2026-09-18",
+          "close": 808.989990234375
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/CAT/history/"
+    },
+    {
+      "name": "AMZN",
+      "pct": 1.0032263418002785,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 251.19000244140625
+        },
+        {
+          "date": "2026-09-18",
+          "close": 253.7100067138672
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/AMZN/history/"
+    },
+    {
+      "name": "MMM",
+      "pct": 0.7164061852241499,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 164.7100067138672
+        },
+        {
+          "date": "2026-09-18",
+          "close": 165.88999938964844
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/MMM/history/"
+    },
+    {
+      "name": "GOOGL",
+      "pct": 0.6362888486728613,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 347.3299865722656
+        },
+        {
+          "date": "2026-09-18",
+          "close": 349.5400085449219
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/GOOGL/history/"
+    },
+    {
+      "name": "BA",
+      "pct": 0.6091355067219251,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 197.0
+        },
+        {
+          "date": "2026-09-18",
+          "close": 198.1999969482422
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/BA/history/"
+    },
+    {
+      "name": "UNH",
+      "pct": 0.45041509551819736,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 375.2099914550781
+        },
+        {
+          "date": "2026-09-18",
+          "close": 376.8999938964844
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/UNH/history/"
+    },
+    {
+      "name": "KO",
+      "pct": 0.2157647588847844,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 88.05999755859375
+        },
+        {
+          "date": "2026-09-18",
+          "close": 88.25
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/KO/history/"
+    },
+    {
+      "name": "AXP",
+      "pct": 0.12532831379330478,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 311.1700134277344
+        },
+        {
+          "date": "2026-09-18",
+          "close": 311.55999755859375
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/AXP/history/"
+    },
+    {
+      "name": "JPM",
+      "pct": 0.10306486263114145,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 349.30999755859375
+        },
+        {
+          "date": "2026-09-18",
+          "close": 349.6700134277344
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/JPM/history/"
+    },
+    {
+      "name": "HON",
+      "pct": -0.01452795704335319,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 206.49000549316406
+        },
+        {
+          "date": "2026-09-18",
+          "close": 206.4600067138672
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/HON/history/"
+    },
+    {
+      "name": "WMT",
+      "pct": -0.05618274939542811,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 106.79000091552734
+        },
+        {
+          "date": "2026-09-18",
+          "close": 106.7300033569336
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/WMT/history/"
+    },
+    {
+      "name": "SHW",
+      "pct": -0.06543012821109695,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 320.94000244140625
+        },
+        {
+          "date": "2026-09-18",
+          "close": 320.7300109863281
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/SHW/history/"
+    },
+    {
+      "name": "JNJ",
+      "pct": -0.085119896857766,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 270.2200012207031
+        },
+        {
+          "date": "2026-09-18",
+          "close": 269.989990234375
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/JNJ/history/"
+    },
+    {
+      "name": "MCD",
+      "pct": -0.09658332199834474,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 248.47999572753906
+        },
+        {
+          "date": "2026-09-18",
+          "close": 248.24000549316406
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/MCD/history/"
+    },
+    {
+      "name": "MRK",
+      "pct": -0.1902812034731305,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 147.14999389648438
+        },
+        {
+          "date": "2026-09-18",
+          "close": 146.8699951171875
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/MRK/history/"
+    },
+    {
+      "name": "AAPL",
+      "pct": -0.2581587884829428,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 337.0
+        },
+        {
+          "date": "2026-09-18",
+          "close": 336.1300048828125
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/AAPL/history/"
+    },
+    {
+      "name": "V",
+      "pct": -0.4433228349496665,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 369.92999267578125
+        },
+        {
+          "date": "2026-09-18",
+          "close": 368.2900085449219
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/V/history/"
+    },
+    {
+      "name": "CSCO",
+      "pct": -0.6621877192352299,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 110.23999786376953
+        },
+        {
+          "date": "2026-09-18",
+          "close": 109.51000213623047
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/CSCO/history/"
+    },
+    {
+      "name": "PG",
+      "pct": -0.7861766439289486,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 147.5500030517578
+        },
+        {
+          "date": "2026-09-18",
+          "close": 146.38999938964844
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/PG/history/"
+    },
+    {
+      "name": "MSFT",
+      "pct": -0.7975893964245362,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 497.75
+        },
+        {
+          "date": "2026-09-18",
+          "close": 493.7799987792969
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/MSFT/history/"
+    },
+    {
+      "name": "HD",
+      "pct": -0.836335558369472,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 302.510009765625
+        },
+        {
+          "date": "2026-09-18",
+          "close": 299.9800109863281
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/HD/history/"
+    },
+    {
+      "name": "CVX",
+      "pct": -0.9736790405390328,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 211.57000732421875
+        },
+        {
+          "date": "2026-09-18",
+          "close": 209.50999450683594
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/CVX/history/"
+    },
+    {
+      "name": "GS",
+      "pct": -0.9952989578984606,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 951.469970703125
+        },
+        {
+          "date": "2026-09-18",
+          "close": 942.0
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/GS/history/"
+    },
+    {
+      "name": "TRV",
+      "pct": -1.2833000191071586,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 379.489990234375
+        },
+        {
+          "date": "2026-09-18",
+          "close": 374.6199951171875
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/TRV/history/"
+    },
+    {
+      "name": "CRM",
+      "pct": -2.0300629238892753,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 242.85000610351562
+        },
+        {
+          "date": "2026-09-18",
+          "close": 237.9199981689453
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/CRM/history/"
+    },
+    {
+      "name": "NKE",
+      "pct": -2.3377400290152006,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 36.36000061035156
+        },
+        {
+          "date": "2026-09-18",
+          "close": 35.5099983215332
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/NKE/history/"
+    },
+    {
+      "name": "DIS",
+      "pct": -2.5439016079664367,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 105.3499984741211
+        },
+        {
+          "date": "2026-09-18",
+          "close": 102.66999816894531
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/DIS/history/"
+    },
+    {
+      "name": "IBM",
+      "pct": -3.4489997679252093,
+      "rows": [
+        {
+          "date": "2026-09-17",
+          "close": 237.75
+        },
+        {
+          "date": "2026-09-18",
+          "close": 229.5500030517578
+        }
+      ],
+      "url": "https://finance.yahoo.com/quote/IBM/history/"
+    }
+  ]
+}
